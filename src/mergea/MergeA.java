@@ -18,6 +18,7 @@ public class MergeA {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Paco is the WORD");
+        JOptionPane.showMessageDialog(null, "Paco is the WORD 2 la venganza");
     }
     
 }
